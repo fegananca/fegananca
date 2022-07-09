@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I'm an enthusiastic about learning new things, seeking to keep up with new trends and generation. +10 years working with diverse teams. Building an enriching journey !
+I'm an enthusiastic about learning new things, seeking to keep up with new trends and generations. +10 years working with diverse teams. Building an enriching journey !
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [fegananca@gmail.com](mailto:fegananca@gmail.com)

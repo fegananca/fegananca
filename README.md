@@ -24,7 +24,7 @@ I'm an enthusiastic about learning new things, seeking to keep up with new trend
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://koajs.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dcsyzmig8/image/upload/v1657554438/simple-icons_koa_bf0xmu.svg" width="36" height="36" alt="Koa" /></a>
+<a href="https://koajs.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dcsyzmig8/image/upload/v1657554622/simple-icons_koa_1_ynsdhg.svg" width="36" height="36" alt="Koa" /></a>
 </p>
 
 
